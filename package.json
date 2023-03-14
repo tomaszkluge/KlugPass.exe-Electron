@@ -2,7 +2,7 @@
   "name": "klugpass",
   "productName": "klugpass",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "Password Generator created by KLUGCODE.DEV",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
@@ -13,8 +13,8 @@
   },
   "keywords": [],
   "author": {
-    "name": "KlugSolutions",
-    "email": "tomasz.kluge@gmail.com"
+    "name": "KlugCode",
+    "email": "info@klugcode.dev"
   },
   "license": "MIT",
   "dependencies": {
